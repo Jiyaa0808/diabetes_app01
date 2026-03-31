@@ -1,4 +1,5 @@
 streamlit
 joblib
 numpy
-scikit-learnplotly
+scikit-learn
+plotly
